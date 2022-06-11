@@ -1,4 +1,4 @@
-gg.toast("Hello User.. ") 
+gg.toast("Hello User... ") 
 
 gg.setVisible(true)
 gg.alert("⚠️ WARNING ⚠️ \n \nYou Login As Allies Account!")
