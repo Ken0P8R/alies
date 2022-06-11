@@ -62,7 +62,7 @@ input = gg.prompt({"Enter Custom Speed Hack Value: (Backup: 1)"},
 {[1] = "1"},
 {[1] = "Number"})
 gg.setSpeed(input[1])
-gg.toast("Done Set To: "..input)
+gg.toast("Done Set To: "..input[1])
 end
 
 function SBackup() 
